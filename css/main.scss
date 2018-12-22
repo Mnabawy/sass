@@ -2,10 +2,10 @@
 $colors: (
     primary: rgba(73, 73, 245, 0.867),
     accent: #FFF6BB,
-    primary-light:lighten(#005DFF, 40%),
-    primary-dark:darken(#005DFF, 40%)
-
+    primary-light:lighten(rgb(117, 167, 253), 40%),
+    primary-dark:darken(rgb(1, 56, 153), 40%)
 );
+
 $padding: 15px;
 $border: 15px;    
 //function
